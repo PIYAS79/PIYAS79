@@ -1,7 +1,7 @@
-
+<!-- 
 <img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/github-banner.jpg">
 <br/>
-<br/>
+<br/> -->
 
 ⚡ **Technologies That I Know** : }
 <p align="center">
