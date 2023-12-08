@@ -1,4 +1,7 @@
 
+<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/github-banner.jpg">
+<br/>
+<br/>
 
 ⚡ **Technologies That I Know** : }
 <p align="center">
@@ -25,14 +28,14 @@
 </div>
 <br/>
 
-🌱 **Overview Of My Repo's**:
+<!-- 🌱 **Overview Of My Repo's**:
 
 <div align="center">
 
-| ![Most Commit Language](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/2-most-commit-language.svg) | ![Transparent Spacer](https://i.ibb.co/HF5HT6g/5a3a0dd0e89022-03253068151375406495262401.png/20x20) | ![Productive Time](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg) |
+| ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={PIYAS137}&theme={merko}&exclude={html,c,java}) | ![Transparent Spacer](https://i.ibb.co/HF5HT6g/5a3a0dd0e89022-03253068151375406495262401.png/20x20) | ![Productive Time](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg) |
 | :---: | :---: | :---: |
 </div>
-<br/>
+<br/> -->
 
 
 
