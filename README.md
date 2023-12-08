@@ -1,7 +1,6 @@
 
 <img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/Banner.png">
 <br/>
-<br/>
 
 # Hello World 😍
 I'm S M Piyas Mahamude Alif,
