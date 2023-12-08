@@ -1,7 +1,18 @@
-<!-- 
-<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/github-banner.jpg">
+
+<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/Banner.png">
 <br/>
-<br/> -->
+<br/>
+
+# Hello World 😍
+I'm S M Piyas Mahamude Alif,
+
+And I'm a MERN Stack Web Developer. I have been doing web development since last 2 years. I am always interested in learning new technologies. I think I am a hard working person and I like errors in coding, because errors make us stronger for logic buildup!
+
+I strongly value collaboration and teamwork, leveraging my expertise to foster continuous innovation 🔗.<br/>
+I view projects not just as tasks but as opportunities to engage with users and create impactful solutions 💡.
+
+<br/>
+
 
 ## ⚡ **Technologies That I Know** : }
 <p align="center">
@@ -27,18 +38,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS137&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 <br/>
-
-## 🌱 **Overview Of My Repo's**:
-
-
-
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|[![](https://visitcount.itsvg.in/api?id=PIYAS137&icon=0&color=3)](https://visitcount.itsvg.in)|
-|-----|----|
-
-
-
 <br/>
 
+
+
+🌱 **Overview Of My Repo's**:
+
+<div align="center"> 
+
+| ![](https://github-readme-stats.vercel.app/api?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Transparent Spacer](https://i.ibb.co/HF5HT6g/5a3a0dd0e89022-03253068151375406495262401.png/20x20) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| :---: | :---: | :---: |
+</div>
+<br/>
 
 
 ## 🤨 **About Me** : }
@@ -62,3 +73,13 @@ I thought I could call myself a web developer only by learning HTML & CSS BUT I'
 
 
 
+<!-- MERN Stack Developer || JavaScript expert || React Developer || Logic & Function Designer -->
+
+
+
+## 📊 GitHub Stats:
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=PIYAS137&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
