@@ -25,18 +25,12 @@
 </div>
 <br/>
 
-🌱 **Overview Of My Repo's** : }
-<div style=" display: flex; justify-content:space-around;">
-<div>
+🌱 **Overview Of My Repo's**:
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/2-most-commit-language.svg)
-</div>
-<div>
+| ![Most Commit Language](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/2-most-commit-language.svg) | ![Productive Time](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg) |
+| --- | --- |
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg)
-</div>
-</div>
-<br/>
+
 
 
 🤨 **About Me** : }
