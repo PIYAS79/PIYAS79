@@ -41,7 +41,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 
 
 
-🌱 **Overview Of My Repo's**:
+## 🌱 **Overview Of My Repo's**:
 
 <div align="center"> 
 
@@ -74,11 +74,3 @@ I thought I could call myself a web developer only by learning HTML & CSS BUT I'
 
 <!-- MERN Stack Developer || JavaScript expert || React Developer || Logic & Function Designer -->
 
-
-
-## 📊 GitHub Stats:
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=PIYAS137&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
