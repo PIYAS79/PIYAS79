@@ -40,7 +40,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 
 
 
-## 🌱 **Overview Of My Repo's**:
+## 🌱 **Overview Of My Repo's** : }
 
 <div align="center"> 
 
