@@ -3,7 +3,7 @@
 <br/>
 <br/> -->
 
-⚡ **Technologies That I Know** : }
+## ⚡ **Technologies That I Know** : }
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c" />
@@ -21,27 +21,27 @@
 </p>
 <br/>
 
-👀 **My Current Stats** : }
+## 👀 **My Current Stats** : }
 <div align="center"> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS137&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 <br/>
 
-<!-- 🌱 **Overview Of My Repo's**:
-
-<div align="center">
-
-| ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={PIYAS137}&theme={merko}&exclude={html,c,java}) | ![Transparent Spacer](https://i.ibb.co/HF5HT6g/5a3a0dd0e89022-03253068151375406495262401.png/20x20) | ![Productive Time](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg) |
-| :---: | :---: | :---: |
-</div>
-<br/> -->
+## 🌱 **Overview Of My Repo's**:
 
 
 
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|[![](https://visitcount.itsvg.in/api?id=PIYAS137&icon=0&color=3)](https://visitcount.itsvg.in)|
+|-----|----|
 
 
-🤨 **About Me** : }
+
+<br/>
+
+
+
+## 🤨 **About Me** : }
 
 <p style=" text-align: justify; font-weight:100">
 As a DEVELOPER, my expertise lies in crafting dynamic and efficient solutions within
@@ -59,3 +59,6 @@ I thought I could call myself a web developer only by learning HTML & CSS BUT I'
 <br/>
 " No matter how, what, where I learn, I want to be confident in it "
 </ul>
+
+
+
