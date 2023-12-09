@@ -14,6 +14,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 
 
 ## ⚡ **Technologies That I Know** : }
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c" />
@@ -44,8 +45,8 @@ I view projects not just as tasks but as opportunities to engage with users and 
 
 <div align="center"> 
 
-| ![](https://github-readme-stats.vercel.app/api?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Transparent Spacer](https://i.ibb.co/HF5HT6g/5a3a0dd0e89022-03253068151375406495262401.png/20x20) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-| :---: | :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| :---: | :---: |
 </div>
 <br/>
 
