@@ -1,5 +1,5 @@
 
-<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/BNR.png">
+<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets//Bnr.png">
 <br/>
 
 # Hello World 😍
@@ -43,18 +43,11 @@ I view projects not just as tasks but as opportunities to engage with users and 
 
 ## 🌱 **Overview Of My Repo's** : }
 
-<!-- <div align='center'>
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
 
 
 
 | ![](https://github-readme-stats.vercel.app/api?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 | :---: | :---: |
-<!-- </div> -->
 <br/>
 
 ## 🤨 **About Me** : }
