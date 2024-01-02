@@ -17,7 +17,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,arduino" />
   </a>
 </p>
 <p align="center">
