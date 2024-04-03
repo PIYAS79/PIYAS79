@@ -5,7 +5,7 @@
 # Hello World 😍
 ### I'm S M Piyas Mahamude Alif,
 
-And I'm a Software Developer (MERN Core). I have been doing web application development since last 2 years. I am always interested in learning new technologies. I think I am a hard working person and I like errors in coding, because errors make us stronger for logic buildup!
+And I'm a Software Developer (MERN Core). I have been doing web application development since last 2 years. I am always interested in learning new technologies. I think I am a hard-working person and I like errors in coding because errors make us stronger for logic buildup!
 
 I strongly value collaboration and teamwork, leveraging my expertise to foster continuous innovation 🔗.<br/>
 I view projects not just as tasks but as opportunities to engage with users and create impactful solutions 💡.
@@ -17,7 +17,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,arduino" />
   </a>
 </p>
 <p align="center">
