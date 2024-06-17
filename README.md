@@ -29,9 +29,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
-    <img style="position: relative; top: -3px;" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman" />
   </a>
 </p>
 <br/>
