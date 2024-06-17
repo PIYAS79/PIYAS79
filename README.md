@@ -37,13 +37,13 @@ I view projects not just as tasks but as opportunities to engage with users and 
 ## 👀 **My Current Stats** : }
 <div align="center"> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS137&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS79&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 <br/>
 
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 | :---: | :---: |
 <br/>
 
@@ -63,7 +63,7 @@ I thought I could call myself a web developer only by learning HTML & CSS BUT I'
 
 🐺 **My understanding** : }
 <br/>
-" No matter how, what, where I learn, I want to be confident in it "
+" No matter how, what, and where I learn, I want to be confident in it "
 </ul>
 
 
