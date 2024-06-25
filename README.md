@@ -29,7 +29,7 @@ I view projects not just as tasks but as opportunities to engage with users and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,netlify,vscode,postman" />
   </a>
 </p>
 <br/>
