@@ -1,5 +1,5 @@
 
-<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/GITHUB_BNR_2.png">
+<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/GITHUB_BNR.png">
 <br/>
 
 # Hello World 😍
