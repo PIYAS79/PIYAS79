@@ -29,7 +29,12 @@ I view projects not just as tasks but as opportunities to engage with users and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,npm,vite,vercel,netlify,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vite,vercel,netlify,vscode,postman,notion" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows,kali" />
   </a>
 </p>
 <br/>
@@ -40,8 +45,6 @@ I view projects not just as tasks but as opportunities to engage with users and 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS79&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 <br/>
-
-
 
 | ![](https://github-readme-stats.vercel.app/api?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 | :---: | :---: |
